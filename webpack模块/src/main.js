@@ -1,0 +1,1 @@
+console.log('main 多入口')
